@@ -6,5 +6,7 @@ We used the PITB-XL dataset for ECG images: https://physionet.org/content/ptb-xl
 **Contributors**:
 
 Anay Bhutoria
+
 Shailly Patel
+
 Jarin Thundathil
