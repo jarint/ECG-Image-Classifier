@@ -3,7 +3,8 @@ A deep learning model that classifies electrocardiogram (ECG) readouts into seve
 
 We used the PITB-XL dataset for ECG images: https://physionet.org/content/ptb-xl/1.0.1/
 
-**'Contributors'**:
+**Contributors**:
+
 Anay Bhutoria
 Shailly Patel
 Jarin Thundathil
